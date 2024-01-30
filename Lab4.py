@@ -54,5 +54,4 @@ def count_palindromes(L):
     return len(list(lst))
 
 
-print(count_palindromes(("Acme", "Madam", "Pivot", "Pip")))
 
