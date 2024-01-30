@@ -55,3 +55,4 @@ def count_palindromes(L):
 
 
 print(count_palindromes(("Acme", "Madam", "Pivot", "Pip")))
+
