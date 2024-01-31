@@ -52,6 +52,3 @@ def count_palindromes(L):
     lowercase_list = list(map(lambda item: item.lower(), L))
     lst = filter(lambda item: item == item[::-1], lowercase_list)
     return len(list(lst))
-
-
-
