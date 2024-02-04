@@ -6,7 +6,6 @@ class tree:
         self.value = value
         self.branches = branches if branches is not None else []
 
-
 class make_city:
     def __init__(self, name, x, y):
         self.name = name
